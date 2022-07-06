@@ -2,7 +2,8 @@
 
 Olá, eu sou Katlyn Dal Bianco.
 
-Formada em direito há mais de 15 anos, escolhi me jogar de cabeça na área tech e estou amando!
+## Sobre mim
+Formada em direito há mais de 15 anos, escolhi me jogar de cabeça na área tech e estou amando! Cada detalhe de cada curso concluído me faz ter a certeza de que fiz a escolha certa ao trocar os papéis pelas máquinas, o passado pelo futuro!
 
 ## Estou estudando
 
@@ -15,6 +16,5 @@ Formada em direito há mais de 15 anos, escolhi me jogar de cabeça na área tec
 
 - Twitter: @katlyndalbianco
 - LinkedIn: /in/katlyndalbianco
-- Instagram: @katlyndalbianco
 - GitHub: @KatlynDalBianco
 - E-mail: katlyndalbianco@gmail.com
