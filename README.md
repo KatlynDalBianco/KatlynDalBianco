@@ -1,20 +1,20 @@
-# Bem vindo(a) ao meu perfil
-
-Olá, eu sou Katlyn Dal Bianco.
+# Olá,bem vindo(a) ao meu perfil! Eu sou Katlyn Dal Bianco.
 
 ## Sobre mim
-Formada em direito há mais de 15 anos, escolhi me jogar de cabeça na área tech e estou amando! Cada detalhe de cada curso concluído me faz ter a certeza de que fiz a escolha certa ao trocar os papéis pelas máquinas, o passado pelo futuro!
 
-## Estou estudando
+Analista de Dados | Transformando Dados em Insights Estratégicos
 
-- Tudo sobre Front end
-- Tudo sobre Back end
-- HTML, CSS e Javascript
-- Me apaixonando pela ciência de dados
+Apaixonada por transformar dados em decisões inteligentes, atuo no desenvolvimento de dashboards interativos e análises estratégicas para otimizar processos e impulsionar resultados.
+
+Desenvolvo dashboards no Power BI e Looker Studio, reduzindo em 30% o tempo de análise da equipe ao automatizar a leitura de métricas-chave. Trabalho com SQL (BigQuery, Redshift), ETL e modelagem de dados, garantindo informações atualizadas e acessíveis.
+
+Tenho experiência na criação de layouts intuitivos no Figma e aplico Google Analytics (GA4) para otimizar estratégias de negócios. Sempre em busca de inovação e aprendizado contínuo, minha missão é transformar dados em insights valiosos para decisões estratégicas.
+
+🚀 Vamos conectar e trocar ideias sobre análise de dados!
+
 
 ## Meus contatos
 
-- Twitter: @katlyndalbianco
 - LinkedIn: /in/katlyndalbianco
 - GitHub: @KatlynDalBianco
 - E-mail: katlyndalbianco@gmail.com
